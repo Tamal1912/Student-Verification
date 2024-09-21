@@ -16,7 +16,7 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
+  background: rgb(249,247,247);background: linear-gradient(160deg, rgba(249,247,247,1) 36%, rgba(249,197,152,1) 59%, rgba(249,186,243,1) 76%, rgba(255,255,255,1) 94%);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -25,3 +25,5 @@ body {
     text-wrap: balance;
   }
 }
+
+
